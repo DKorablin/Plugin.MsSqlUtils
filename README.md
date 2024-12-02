@@ -1,2 +1,2 @@
-# TEMPLATE plugin
-This is a template plugin description
+# Microsoft SQL Server Utils
+Various Microsoft SQL Server utils
